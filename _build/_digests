@@ -1,0 +1,4 @@
+"Rule: ocaml dependencies ml (%=lab8 )": "\162uy\157\200\212\182\238\165\240\208W\016d\252\004"
+"Rule: ocaml: ml -> cmo & cmi (%=lab8 )": "\178\232\225Xb\209\169\203\199i8\138\133\028%\232"
+"Resource: /Users/jackconnolly/Documents/GitHub/cs51-hw/lab8-jackconnolly21/lab8.ml": "\171+\022\152-L\2258v\131\r>ze\135k"
+"Rule: ocaml: cmo* -> byte (%=lab8 )": "7\252\144\193\"\\8\129\226\011g\186\163\244\218\136"
